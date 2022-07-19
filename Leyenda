@@ -15,7 +15,7 @@ for n in range (1, 65):
     n2 = len(str(n1))
     
     if n2 == 1:
-        n3 = "Grano"
+        n3 = "Granos"
     elif n2 == 2 or n2 == 3:
         n3 = "Granos"
     elif n2 == 4 or n2 == 5 or n2 == 6:
