@@ -31,4 +31,4 @@ for n in range (1, 65):
     elif n2 == 19 or n2 == 20 or n2 == 21:
         n3 = "Trillones de granos"
     
-    print ("Cuadro ", n, " - ", n1, "-", n3)
+    print ("Cuadro ", n, " Son {:,}".format(n1), "-", n3)
